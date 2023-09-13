@@ -1,8 +1,8 @@
-﻿using DevGenious.Data.IRepositories;
+﻿using Newtonsoft.Json;
 using DevGenious.Domain.Commons;
-using DevGenious.Domain.Configurations;
 using DevGenious.Domain.Entities;
-using Newtonsoft.Json;
+using DevGenious.Data.IRepositories;
+using DevGenious.Domain.Configurations;
 
 namespace DevGenious.Data.Repositories;
 

@@ -3,7 +3,6 @@ using DevGenious.Domain.Commons;
 using DevGenious.Domain.Configurations;
 using DevGenious.Domain.Entities;
 using Newtonsoft.Json;
-using System.Xml;
 
 namespace DevGenious.Data.Repositories;
 
